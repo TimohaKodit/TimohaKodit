@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ### 🚀 Обо мне
 - 💻 Сейчас я активно разрабатываю **Telegram Mini Apps** и **AI-агентов**.
 - 🛠 Мой основной стек: **Python**, **Go** и **PostgreSQL**.
-- 🤖 Увлекаюсь интеграцией LLM и созданием RAG-систем.
-- 📈 Постоянно учусь новому и строю карьеру в AI Engineering.
+- 🤖 Занимаюсь интеграцией LLM и созданием RAG-систем.
+- 📈 Строю карьеру в AI Engineering.
 
 - ### 🛠 Стек технологий
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
