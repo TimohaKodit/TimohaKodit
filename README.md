@@ -1,34 +1,50 @@
-## Привет 👋
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Timofey — Python developer, AI tools and products" />
+</p>
 
-<!--
-**TimohaKodit/TimohaKodit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://t.me/TimohaKodit"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://x.com/Timoha_kodit"><img src="https://img.shields.io/badge/X-334155?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=TimohaKodit&style=flat-square&color=38bdf8&label=profile+views" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+## Привет, я Тимофей 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python-разработчик, который превращает идеи в работающие продукты. Создаю **AI-инструменты**, **backend-сервисы**, **Telegram-ботов** и небольшие desktop-приложения — от архитектуры и API до интерфейса и релиза.
 
+> **Сейчас:** развиваю собственные продукты и AI-инструменты  
+> **Фокус:** Python · FastAPI · PostgreSQL · LLM / RAG  
+> **Изучаю:** Go · продуктовую разработку · production-архитектуру
 
-### 🚀 Обо мне
-- 💻 Сейчас я активно разрабатываю **Telegram Mini Apps** и **AI-агентов**.
-- 🛠 Мой основной стек: **Python**, **Go** и **PostgreSQL**.
-- 🤖 Занимаюсь интеграцией LLM и созданием RAG-систем.
-- 📈 Строю карьеру в AI Engineering.
+## Проекты
 
-- ### 🛠 Стек технологий
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+| Проект | Что внутри |
+| --- | --- |
+| **[Custom](https://github.com/TimohaKodit/win_widget)** | Локальный Windows-виджет для мониторинга ПК, диска и расхода токенов Claude Code. **Tauri · React · TypeScript · Rust** |
+| **[AI Resume Analyzer](https://github.com/TimohaKodit/AI_resume_analyzer)** | Анализ PDF-резюме и сравнение с вакансиями через Gemini, LangChain и Habr Career. **FastAPI · PostgreSQL · Alembic · JWT** |
+| **[Web Chat](https://github.com/TimohaKodit/Web_chat)** | Веб-мессенджер с групповым чатом и сообщениями в реальном времени. **FastAPI · WebSocket · JavaScript** |
+| **[RAG System](https://github.com/TimohaKodit/RAG_system)** | Telegram-ассистент по Python с историей диалога, векторным поиском и reranking. **Aiogram · LangChain · Gemini · ChromaDB** |
 
-### 🤝 Связаться со мной
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TimohaKodit)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Timoha_kodit)
+## Стек
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github&theme=light" alt="Python, FastAPI, PostgreSQL, Docker, Git, GitHub" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,rust,go&theme=light" alt="TypeScript, React, Rust, Go" />
+</p>
+
+## Чем могу быть полезен
+
+- Разработка API и backend-сервисов на **Python / FastAPI**.
+- Telegram-боты и интеграции с внешними сервисами.
+- AI-функции: LLM, RAG, поиск, обработка документов и автоматизация.
+- Быстрый путь от идеи до рабочего MVP.
+
+---
+
+<p align="center">
+  <b>Открыт к интересным проектам и новым знакомствам</b><br />
+  <a href="https://t.me/TimohaKodit">Написать в Telegram →</a>
+</p>
