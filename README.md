@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://t.me/TimohaKodit"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://x.com/Timoha_kodit"><img src="https://img.shields.io/badge/X-334155?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <img src="https://komarev.com/ghpvc/?username=TimohaKodit&style=flat-square&color=38bdf8&label=profile+views" alt="Profile views" />
-</p>
-
 ## Привет, я Тимофей 👋
 
 Python-разработчик, который превращает идеи в работающие продукты. Создаю **AI-инструменты**, **backend-сервисы**, **Telegram-ботов** и небольшие desktop-приложения — от архитектуры и API до интерфейса и релиза.
@@ -41,6 +35,8 @@ Python-разработчик, который превращает идеи в �
 ---
 
 <p align="center">
-  <b>Открыт к интересным проектам и новым знакомствам</b><br />
-  <a href="https://t.me/TimohaKodit">Написать в Telegram →</a>
+  <b>Открыт к интересным проектам и новым знакомствам</b><br /><br />
+  <a href="https://t.me/TimohaKodit"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://x.com/Timoha_kodit"><img src="https://img.shields.io/badge/X-334155?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=TimohaKodit&style=flat-square&color=38bdf8&label=profile+views" alt="Profile views" />
 </p>
