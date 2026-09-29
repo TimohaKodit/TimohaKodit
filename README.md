@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Timofey — Python developer, AI tools and products" />
-</p>
-
-<p align="center">
   <a href="https://t.me/TimohaKodit"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://x.com/Timoha_kodit"><img src="https://img.shields.io/badge/X-334155?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <img src="https://komarev.com/ghpvc/?username=TimohaKodit&style=flat-square&color=38bdf8&label=profile+views" alt="Profile views" />
